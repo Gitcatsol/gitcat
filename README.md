@@ -1,6 +1,8 @@
 
 # gitcat 🐱🌛
 
+https://dexscreener.com/solana/7jq1czm2vmmrbcr53ujg9bepmhhhkjokr7dn7agkcbhu
+
 ```javascript
 // ༼ つ ◕_◕ ༽つ Moonshot Gitcat Chat
 // ----------------------------------
@@ -11,7 +13,7 @@
 import { pump,sol } from "@instantdb/solana";
 
 const db = init({ 
-  ca: SOON ,
+  ca: 7jq1cZM2vmmRBcR53Ujg9bePmHHHkJokr7Dn7AgKCbHu ,
 });
 
 function Chat() {
